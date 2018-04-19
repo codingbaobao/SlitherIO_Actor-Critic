@@ -9,7 +9,7 @@ dis-converge or fall into **local minima**, we propose four methods and greatly 
 * [Numpy](http://www.numpy.org/)
 * [Tensorflow](https://www.tensorflow.org/)
 # Usage
-*We don't upload our pretrain model, so please train before test*
+*We don't upload our model, so please train before test.*
 * Train: `python train_AC.py`
 * Test: `python play_AC.py`
 
