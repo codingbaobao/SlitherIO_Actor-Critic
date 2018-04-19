@@ -14,3 +14,6 @@ For more detail, please see our report:[**Report**](TRAINING-VISION-BASED-AGENT-
 * Test: `python play_AC.py`
 
 ***There might have some bug or unstable since it's our experiment code.***
+
+# Demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8iRD1w73fDo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
