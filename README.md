@@ -16,4 +16,4 @@ For more detail, please see our report:[**Report**](TRAINING-VISION-BASED-AGENT-
 ***There might have some bug or unstable since it's our experiment code.***
 
 # Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8iRD1w73fDo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Demo](http://img.youtube.com/vi/8iRD1w73fDo/0.jpg)](https://www.youtube.com/watch?v=8iRD1w73fDo)
